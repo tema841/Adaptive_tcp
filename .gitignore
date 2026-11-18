@@ -1,0 +1,8 @@
+/build*/
+/storage/
+/*.bin
+/load_*.bin
+/load_results.csv
+/load_results.png
+*.part
+.DS_Store
